@@ -2,7 +2,7 @@
 
 <!-- https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wijourdil&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wijourdil&show_icons=true&count_private=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 #### What do I use ? 
