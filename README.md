@@ -2,8 +2,6 @@
 
 <!-- https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wijourdil&show_icons=true&count_private=true&theme=material-palenight&custom_title=My+Github+Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 #### What do I use ? 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
